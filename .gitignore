@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# Logs (if scripts are later modified to export results)
+*.log
+*.csv
+*.json
